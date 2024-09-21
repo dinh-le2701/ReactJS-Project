@@ -45,7 +45,7 @@
 ## 6. Heatmap - Use Case ##
 
     - how to use Heatmap
-    ```js
+    ```javascript
     npm install leaflet
     npm install leaflet.heat
     npm install react-leaflet
@@ -55,4 +55,4 @@
         [latitude2, longitude2, intensity2],
         [latitude3, longitude3, intensity3],
     ];
-    ```js
+    ```
