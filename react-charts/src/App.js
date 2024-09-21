@@ -5,6 +5,7 @@ import BarChart from './charts/BarChart.js';
 import PieChart from './charts/PieChart.js';
 import LineBarAreaChart from './charts/LineBarAreaChart.js';
 import  Container  from 'react-bootstrap/Container'
+import { CostChart } from './charts/CostChart.js';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <BarChart />
         <LineBarAreaChart/>
         <PieChart/>
+        <CostChart/>
       </Container>
     </div>
   );
