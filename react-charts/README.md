@@ -49,12 +49,10 @@
     npm install leaflet
     npm install leaflet.heat
     npm install react-leaflet
-    ```
     - Data Structure for Heatmap
-    ```js
     const heatmapData = [
         [latitude1, longitude1, intensity1],
         [latitude2, longitude2, intensity2],
         [latitude3, longitude3, intensity3],
     ];
-    ```
+    ```js
